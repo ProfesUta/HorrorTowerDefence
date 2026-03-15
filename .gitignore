@@ -1,0 +1,43 @@
+# Visual Studio / IDE
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.sdf
+*.opensdf
+
+# Build results
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal generated project files
+*.xcodeproj
+*.xcworkspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Crash reports
+*.dmp
+
+# Ignore packaged builds
+*.apk
+*.ipa
+*.exe
+
+# Ignore auto-generated config backups
+Config/DefaultEditorPerProjectUserSettings.ini
